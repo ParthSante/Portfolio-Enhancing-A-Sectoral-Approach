@@ -41,6 +41,5 @@ This project emphasizes the importance of a structured, data-driven approach to 
 Piyush Korake
 Partha Lalit
 Heeta Parmar
-Parth Sante
 Aniruddha Shelke
 Sakshi Shinde
